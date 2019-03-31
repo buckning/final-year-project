@@ -8,3 +8,29 @@ See [project report](https://github.com/buckning/final-year-project/blob/master/
 * WiiRemoteJ: https://github.com/micromu/WiiRemoteJ. Last tested with V1.6
 * Processing: https://processing.org
 * BlueCove: http://www.bluecove.org/. Last tested with V2.0.3
+
+The project requires images to be placed into the following paths
+* src/images/loading_graphics.png
+* data
+paintbrush.png
+eraser.png
+MagicIcon.png
+pencil.png
+trash.png
+line.png
+circle_f.png
+diamond_f.png
+pentagon_f.png
+square_f.png
+triangle_f.png
+circle_f.png
+diamond_f.png
+pentagon_f.png
+square_f.png
+triangle_f.png
+rainbow2.png
+rainbow.png
+rectangle_f.png
+rectangle_t.png
+circle_f.png
+circle_t.png
